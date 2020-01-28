@@ -14,6 +14,12 @@
 
 
 
+## Required Imports
+
+- pyodbc
+- cv2
+- numpy
+
 
 My twitter: [Abdullah](https://twitter.com/Techn_new) <br>
 My linkedIn: [Abdullah](https://www.linkedin.com/in/abdullah-fayez-158a00158)
