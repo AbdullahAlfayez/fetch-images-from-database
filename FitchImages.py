@@ -1,11 +1,6 @@
 #Abdullah. Twitter: @Techn_new
 import cv2
-import schedule
 import pyodbc
-import io
-from PIL import Image
-import cv2
-import os
 import numpy as np
 
 def get_image_blob(connection_prd):
